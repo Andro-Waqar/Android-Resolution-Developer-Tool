@@ -1,0 +1,1 @@
+# Android Resolution Developer Tool
